@@ -2,6 +2,7 @@
 
 >Convert the `.pkl` file trained with stylegan2-ada-pytorch to `.pt` format using `main.py`.  
 >Refer to `pkl2pt.ipynb` for detailed instructions.
+>Running `pkl2pt.ipynb` on Google Colab.
 
 ## References： 
 >[FICE](https://github.com/MartinPernus/FICE)  
