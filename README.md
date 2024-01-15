@@ -6,6 +6,6 @@
 
 ### References： 
 >FICE: Text-Conditioned Fashion Image Editing with Guided GAN Inversion  
->[FICE](https://github.com/MartinPernus/FICE)
+>[FICE](https://github.com/MartinPernus/FICE)  
 >StyleGAN2-ADA — Official PyTorch implementation  
 >[StyleGAN2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch)
