@@ -1,7 +1,7 @@
 # Transform '.pkl' file to '.pt'
 
 * Convert the `.pkl` file trained with stylegan2-ada-pytorch to `.pt` format using `main.py`.  
-* Refer to `pkl2pt.ipynb` for detailed instructions.
+* Refer to `main.py` and `pkl2pt.ipynb` for detailed instructions.
 * Running `pkl2pt.ipynb` on Google Colab.
 
 ### References： 
