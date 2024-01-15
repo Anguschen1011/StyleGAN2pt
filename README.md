@@ -1,6 +1,7 @@
 # Transform '.pkl' file to '.pt'
 
-將利用 stylegan2-ada-pytorch 訓練的 '.pkl' 檔案轉為 '.pt'
+Convert the '.pkl' file trained with stylegan2-ada-pytorch to '.pt' format using 'main.py'. 
+Refer to 'pkl2pt.ipynb' for detailed instructions.
 
 ## References： 
 >[FICE](https://github.com/MartinPernus/FICE)  
