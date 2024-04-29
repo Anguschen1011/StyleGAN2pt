@@ -1,4 +1,4 @@
-# Transform '.pkl' file to '.pt'
+# Transform StyleGAN'.pkl' file to '.pt'
 
 * Convert the `.pkl` file trained with stylegan2-ada-pytorch to `.pt` format using `main.py`.  
 * See `main.py` and `pkl2pt.ipynb` for detailed instructions.
