@@ -2,7 +2,7 @@
 
 * Convert the `.pkl` file trained with stylegan2-ada-pytorch to `.pt` format using `main.py`.  
 * See `main.py` and `pkl2pt.ipynb` for detailed instructions.
-* Running `pkl2pt.ipynb` on Google Colab.
+* Running `pkl2pt.ipynb` is available on Google Colab.
 
 ### References： 
 > * FICE: Text-Conditioned Fashion Image Editing with Guided GAN Inversion  
